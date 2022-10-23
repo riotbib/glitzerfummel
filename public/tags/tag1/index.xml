@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Glitzerfummel</title>
+    <link>https://glitzerfummel.de/tags/tag1/</link>
+    <description>Recent content in tag1 on Glitzerfummel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language><atom:link href="https://glitzerfummel.de/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artist - Album (Year)</title>
+      <link>https://glitzerfummel.de/posts/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://glitzerfummel.de/posts/template/</guid>
+      <description>Datum Länge Tracks     yyyy-mm-dd mm:ss xx     Zitatzeile 1/ Zitatzeile 2/ Zitatzeiel 3
+  Notiz 1 Notiz 2 Notiz 3  Mein Lieblingstrack ist »$title«.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+baseURL = 'https://glitzerfummel.de'
+languageCode = 'de-de'
+title = 'Glitzerfummel'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'light'                 # linen, wheat, gray, light
+
+  # header social icons
+  rss = true                      # show rss icon with link
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
