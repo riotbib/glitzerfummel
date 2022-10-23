@@ -1,3 +1,8 @@
+# Glitzerfummel
+
+Personal music blog, made with Hugo and Paper theme.
+
+```
 ---
 title: "Artist - Album (Year)"
 date: yyyy-mm-ddTmm:ss:xx
@@ -18,4 +23,4 @@ tags: [tag1,tag2,tag3]
 - Notiz 3
 
 Mein Lieblingstrack ist »$title«.
-
+```

@@ -17,15 +17,5 @@
   Dass sie Fake News um die Corona-Pandemie verbreitet, ist wirklich ein Downer.  Mein Lieblingstrack ist »Marigold«.</description>
     </item>
     
-    <item>
-      <title>Artist - Album (Year)</title>
-      <link>https://glitzerfummel.de/posts/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://glitzerfummel.de/posts/template/</guid>
-      <description>Datum Länge Tracks     yyyy-mm-dd mm:ss xx     Zitatzeile 1/ Zitatzeile 2/ Zitatzeiel 3
-  Notiz 1 Notiz 2 Notiz 3  Mein Lieblingstrack ist »$title«.</description>
-    </item>
-    
   </channel>
 </rss>
