@@ -1,6 +1,6 @@
 ---
 title: "M.I.A. - Mata (2022)"
-date: 2022-10-23T11:30:00
+date: 2022-10-23
 draft: false
 tags: [electronic,hip.hop]
 ---
