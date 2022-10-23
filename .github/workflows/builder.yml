@@ -13,7 +13,7 @@ jobs:
           hugo-version: "0.99.1"
 
       - name: Build
-        run: hugo --minify
+        run: hugo
 
       - name: Commit and push
         uses: github-actions-x/commit@v2.9
