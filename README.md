@@ -5,7 +5,7 @@ Personal music blog, made with Hugo and Paper theme.
 ```
 ---
 title: "Artist - Album (Year)"
-date: yyyy-mm-ddTmm:ss:xx
+date: yyyy-mm-dd
 draft: true
 tags: [tag1,tag2,tag3]
 ---
@@ -16,7 +16,7 @@ tags: [tag1,tag2,tag3]
 
 > Zitatzeile 1/
 > Zitatzeile 2/
-> Zitatzeiel 3
+> Zitatzeile 3
 
 - Notiz 1
 - Notiz 2
