@@ -9,6 +9,7 @@ tags: [hiphop,rap]
 | 2022-12-01 | 37:17 | 13     |
 
 > Zu lange habe ich getanzt mit Dschinn und Geistern/
+
 > Ich schmeiß' das Mic hin und nimm für meine Kinder Zeit
 
 - Naja.
